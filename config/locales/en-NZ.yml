@@ -21,9 +21,9 @@ en-NZ:
         address2: "Address (contd.)"
         city: "Town / City"
         country: Country
-        first_name_begins_with: "First Name Begins With"
+        first_name_start: "First Name Begins With"
         firstname: "First Name"
-        last_name_begins_with: "Last Name Begins With"
+        last_name_start: "Last Name Begins With"
         lastname: "Last Name"
         phone: Phone
         state: Region
@@ -665,7 +665,7 @@ en-NZ:
   pagination:
     next_page: "next page »"
     previous_page: "« previous page"
-    truncate: "…"
+    truncate: …
   paid: Paid
   parent_category: "Parent Category"
   password: Password
